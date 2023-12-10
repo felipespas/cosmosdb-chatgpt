@@ -4,8 +4,8 @@
   "metadata": {
     "_generator": {
       "name": "bicep",
-      "version": "0.22.6.54827",
-      "templateHash": "2702760770067258847"
+      "version": "0.23.1.45101",
+      "templateHash": "1304204391254695734"
     }
   },
   "parameters": {
@@ -37,7 +37,7 @@
     },
     "cosmosDbEnableFreeTier": {
       "type": "bool",
-      "defaultValue": true,
+      "defaultValue": false,
       "metadata": {
         "description": "Boolean indicating whether Azure Cosmos DB free tier should be used for the account. This defaults to **true**."
       }
