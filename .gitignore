@@ -357,3 +357,4 @@ MigrationBackup/
 /appsettings.json
 /appsettings.Development.json
 /appsettings.Development.json
+_MyScripts/sensitive-info.txt
